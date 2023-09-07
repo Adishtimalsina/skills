@@ -11,3 +11,9 @@ return (a+b);
 
 console.log(addition(1, 2));
 ```
+
+- [x] Headers are added in index.md
+- [x] image is added in index.md
+- [x] JavaScript code is added in index.md
+- [x] List is added 
+- [ ] moving to final 
